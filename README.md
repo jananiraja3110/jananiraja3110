@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Janani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+NLP+%7C+Python"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+NLP+%7C+Computer+Vision+%7C+python+ML+Apps" alt="Typing SVG" />
 </p>
+
 
 ---
 
