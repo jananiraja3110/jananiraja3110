@@ -30,7 +30,6 @@
 
 - 📫 How to reach me:  
   [📧 jananiraja3110@gmail.com  
-  [🌐 Portfolio](https://your-portfolio-link.com) *(coming soon)*
 
 - 😄 Pronouns:  
   `She/Her`
@@ -65,7 +64,7 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janani31&theme=radical&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=radical&column=4" />
 </p>
 
 ---
@@ -73,9 +72,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janani31&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jananiraja3110&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janani31&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiraja3110&layout=compact&theme=radical" />
 </p>
 
 ---
