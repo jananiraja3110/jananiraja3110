@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=AI+%7C+ML+%7C+NLP+%7C+DS+%7C+python+%7C+SQL+%7C" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jananiraja3110&color=brightgreen" alt="Profile views" />
+</p>
 
 ---
 
@@ -12,7 +15,6 @@
 - 🎓 AI & Data Science Enthusiast  
 - 🌐 Passionate about solving real-world problems with AI  
 - 🧑‍🏫 Currently mentoring students in AI/ML internship programs  
- 
 
 ---
 
@@ -29,7 +31,7 @@
   `Machine Learning`, `Flask`, `OpenCV`, `Face Recognition`, `NLP`
 
 - 📫 How to reach me:  
-  [📧 jananiraja3110@gmail.com  
+  📧 `jananiraja3110@gmail.com`
 
 - 😄 Pronouns:  
   `She/Her`
@@ -64,7 +66,7 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=radical&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=radical&column=4" />
 </p>
 
 ---
@@ -80,5 +82,3 @@
 ---
 
 > 💬 “Every dataset tells a story. I just listen with code.” 🎯
-
-
