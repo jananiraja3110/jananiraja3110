@@ -63,10 +63,11 @@
 
 ---
 
-### 🏆 GitHub Trophy
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=jananiraja3110 & theme=radical&column=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=radical&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
