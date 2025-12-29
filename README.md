@@ -80,6 +80,8 @@ me.say_hi()
 
 <div align="center">
 
+<div align="center">
+
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jananiraja3110&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
@@ -87,7 +89,8 @@ me.say_hi()
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiraja3110&layout=compact&theme=midnight-purple"/>
 
 <!-- Streak Stats -->
-<img src="https://janani-streak.vercel.app?user=jananiraja3110&theme=midnight-purple" />
+<img src="https://streak-stats.vercel.app?user=jananiraja3110&theme=midnight-purple" />
+
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jananiraja3110&bg_color=0d0d0d&color=9D4EDD&line=9D4EDD&point=ffffff&area=true" alt="Contribution Graph"/>
@@ -99,9 +102,7 @@ me.say_hi()
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=discord" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
