@@ -65,7 +65,7 @@
 
 <p align="center">
   <img 
-    src=![Trophy](https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=radical&column=4)
+    src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=radical&column=4"
     alt="GitHub Trophies"
   />
 </p>
