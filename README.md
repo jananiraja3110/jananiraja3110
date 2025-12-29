@@ -79,14 +79,23 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jananiraja3110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jananiraja3110&theme=tokyonight&hide_border=true)
+<a href="https://github.com/jananiraja3110">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jananiraja3110&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiraja3110&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jananiraja3110&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jananiraja3110&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)
+<a href="https://github.com/jananiraja3110">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jananiraja3110&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/jananiraja3110">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jananiraja3110&custom_title=Contribution%20Activity&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -95,8 +104,10 @@ me.say_hi()
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+<a href="https://github.com/jananiraja3110">
+  <img src="https://github-profile-trophy.vercel.app/?username=jananiraja3110&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</a>
 
 </div>
 
