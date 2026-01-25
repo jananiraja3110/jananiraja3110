@@ -23,7 +23,7 @@ class AIEngineer:
         self.name = "Janani Raja"
         self.role = "AI & Data Science Engineer"
         self.passion = "Building intelligent solutions that matter"
-        self.current_focus = ["Advanced AI", "Model Deployment", "MERN Stack"]
+        self.current_focus = ["Advanced AI", "Model Deployment"]
         self.mentoring = True
         
     def say_hi(self):
